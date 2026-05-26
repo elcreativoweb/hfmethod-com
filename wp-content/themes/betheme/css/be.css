@@ -488,12 +488,12 @@ button.alt.loading:after:hover, input[type="button"].alt.loading:after:hover, in
 
 @font-face {
   font-family: 'mfn-icons';
-  src: url(/wp-content/themes/betheme/fonts/mfn/icons.eot?3522148);
-  src: url(/wp-content/themes/betheme/fonts/mfn/icons.eot?3522148#iefix) format('embedded-opentype'),
-       url(/wp-content/themes/betheme/fonts/mfn/icons.woff2?3522148) format('woff2'),
-       url(/wp-content/themes/betheme/fonts/mfn/icons.woff?3522148) format('woff'),
-       url(/wp-content/themes/betheme/fonts/mfn/icons.ttf?3522148) format('truetype'),
-       url(/wp-content/themes/betheme/fonts/mfn/icons.svg?3522148#mfn-icons) format('svg');
+  src: url(/wp-content/themes/betheme/fonts/mfn/icons.eot);
+  src: url(/wp-content/themes/betheme/fonts/mfn/icons.eot) format('embedded-opentype'),
+       url(/wp-content/themes/betheme/fonts/mfn/icons.woff2) format('woff2'),
+       url(/wp-content/themes/betheme/fonts/mfn/icons.woff) format('woff'),
+       url(/wp-content/themes/betheme/fonts/mfn/icons.ttf) format('truetype'),
+       url(/wp-content/themes/betheme/fonts/mfn/icons.svg) format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
